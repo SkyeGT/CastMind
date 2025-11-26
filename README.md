@@ -75,7 +75,8 @@ AlphaCast consistently achieves the best performance across most datasets, demon
 
 ## 🥰 Acknowledgements
 
-We would like to express our sincere appreciation to the creators of [Pydantic AI](https://ai.pydantic.dev/) for providing such a robust framework, which has been integral to the success of our project. Additionally, we are deeply thankful for the insightful feedback and contributions from the collaborators of this work, including Xiaohan Zhang, Tian Gao, Bokai Pan, Ze Guo, Yaguo Liu, Xiaoyu Tao, and Jiahao Wang. It is their dedicated efforts and invaluable contributions that have made this work possible.
+We would like to express our sincere appreciation to the creators of [Pydantic AI](https://ai.pydantic.dev/)  and [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library) for providing such a robust framework, which has been integral to the success of our project.Additionally, we are deeply thankful for the insightful feedback and contributions from the collaborators of this work, including Xiaohan Zhang, Tian Gao, Bokai Pan, Ze Guo, Yaguo Liu, Xiaoyu Tao, and Jiahao Wang. It is their dedicated efforts and invaluable contributions that have made this work possible.
+
 ## ✍️ Citation
 
 AlphaCast
